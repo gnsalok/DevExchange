@@ -7,8 +7,8 @@ const Landing = () => {
         <div className='landing-inner'>
           <h1 className='large'>DevExchange : The Developer Social Network</h1>
           <p className='lead'>
-            Create a developer profile/portfolio, share posts and get help from
-            other developers
+            Create a developer portfolio, share posts and get help from other
+            developers
           </p>
           <div className='buttons'>
             <a href='register.html' className='btn btn-primary'>

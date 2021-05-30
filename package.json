@@ -20,11 +20,21 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.27.0",
     "mongoose": "^5.9.11",
-    "normalize-url": "^5.0.0"
+    "normalize-url": "^5.0.0",
+    "request": "^2.88.2"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.3"
-  }
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnsalok/DevExchange.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gnsalok/DevExchange/issues"
+  },
+  "homepage": "https://github.com/gnsalok/DevExchange#readme"
 }
